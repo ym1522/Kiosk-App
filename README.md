@@ -95,3 +95,9 @@
 ![image](https://user-images.githubusercontent.com/68288862/210203705-7d9cd8e1-8349-44bd-801d-d57b92894acc.png)
 
   - 결제 API 사용해 구현
+
+<br>
+<br>
+
+## 📌 주문 완료!
+![image](https://user-images.githubusercontent.com/68288862/210907785-b011a791-8eab-401f-bb3a-ff26925801db.png)
