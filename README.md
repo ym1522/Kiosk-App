@@ -99,5 +99,5 @@
 <br>
 <br>
 
-## 📌 주문 완료!
+## 📌 주문 완료!!
 ![image](https://user-images.githubusercontent.com/68288862/210907785-b011a791-8eab-401f-bb3a-ff26925801db.png)
